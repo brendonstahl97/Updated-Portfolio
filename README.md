@@ -10,9 +10,9 @@ Thanks for viewing my portfolio! This is an up-to-date record of my progress tow
 
 ## Example Photos
 
-![Example Photo](.\img\examplePhoto1.jpg)
-![Example Photo](.\img\examplePhoto2.jpg)
-![Example Photo](.\img\examplePhoto3.jpg)
+![Example Photo](img\examplePhoto1.jpg)
+![Example Photo](img\examplePhoto2.jpg)
+![Example Photo](img\examplePhoto3.jpg)
 
 ## License
 
